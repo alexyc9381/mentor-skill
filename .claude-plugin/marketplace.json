@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mentor-skill",
+  "description": "The mentor skill for Claude Code",
+  "owner": {
+    "name": "Alex Chen"
+  },
+  "plugins": [
+    {
+      "name": "mentor-skill",
+      "description": "Makes you learn while Claude writes the code: three questions in your own words before every feature, a hook that blocks code until you answer, and an explain-back at the end.",
+      "source": "./",
+      "category": "learning",
+      "author": {
+        "name": "Alex Chen",
+        "url": "https://chen.media"
+      },
+      "homepage": "https://github.com/alexyc9381/mentor-skill"
+    }
+  ]
+}

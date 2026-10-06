@@ -1,0 +1,13 @@
+{
+  "name": "mentor-skill",
+  "description": "Makes you learn while Claude writes the code: you answer what it does, the edge cases and the design in your own words before Claude can write a line, then you explain it back.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Chen",
+    "url": "https://chen.media"
+  },
+  "homepage": "https://github.com/alexyc9381/mentor-skill",
+  "repository": "https://github.com/alexyc9381/mentor-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "learn-to-code", "vibe-coding", "beginners", "teaching", "hooks"]
+}
