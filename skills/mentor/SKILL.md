@@ -51,7 +51,10 @@ If the arguments are `status`, `recap` or `stop`, run that command, show the res
 
 1. Ask what the first thing a user should be able to do is. Their answer names the feature:
    `MENTOR feature "<their words>"`.
-2. Ask the three checkpoints, one at a time, and wait for each answer:
+2. Teach first. Before each checkpoint, explain the idea behind it in two or three plain sentences with
+   one everyday example (for example, before the design question: what a database is and why data can't
+   live only in the browser). Match the depth to their level. Then ask the checkpoint, one at a time,
+   and wait for each answer:
    - **scope:** "When someone opens this, what should they be able to do?"
    - **behavior:** ask about two or three real edge cases for THIS feature, for example "What should
      happen when they come back tomorrow on another device?" or "What happens to the notes inside a

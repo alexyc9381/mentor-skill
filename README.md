@@ -14,7 +14,7 @@ structure. You click yes on whatever it recommends, it writes thousands of lines
    deleting a folder that still has notes in it?
 3. **Design:** where should the data live, and what talks to what?
 
-No multiple choice, no "(recommended)" option to click. If you don't know, Claude asks a smaller
+Before each question, Claude teaches you the idea behind it in plain words, like a senior engineer sitting next to you. No multiple choice, no "(recommended)" option to click. If you don't know, Claude asks a smaller
 question until you get there.
 
 **It actually forces it.** A hook blocks Claude's Write and Edit tools until all three answers are in.
